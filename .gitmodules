@@ -1,0 +1,3 @@
+[submodule "tmc2208-breakout"]
+	path = tmc2208-breakout
+	url = git@github.com:Gherkin/tmc2208-breakout.git
