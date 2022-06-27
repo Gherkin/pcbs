@@ -1,3 +1,6 @@
 [submodule "tmc2208-breakout"]
 	path = tmc2208-breakout
 	url = git@github.com:Gherkin/tmc2208-breakout.git
+[submodule "rp2040-mini"]
+	path = rp2040-mini
+	url = git@github.com:Gherkin/rp2040-mini.git
