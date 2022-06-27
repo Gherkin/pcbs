@@ -4,3 +4,9 @@
 [submodule "rp2040-mini"]
 	path = rp2040-mini
 	url = git@github.com:Gherkin/rp2040-mini.git
+[submodule "thermocouples"]
+	path = thermocouples
+	url = git@github.com:Gherkin/thermocouples.git
+[submodule "hotplate"]
+	path = hotplate
+	url = git@github.com:Gherkin/hotplate.git
