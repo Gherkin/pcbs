@@ -10,3 +10,6 @@
 [submodule "hotplate"]
 	path = hotplate
 	url = git@github.com:Gherkin/hotplate.git
+[submodule "transistor_party"]
+	path = transistor_party
+	url = git@github.com:Gherkin/transistor_party.git
