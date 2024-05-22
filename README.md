@@ -11,3 +11,16 @@ A hotplate for soldering
 
 ### thermocouples
 A small board with an instrumentation amplifier and support for two thermocouples
+
+
+
+# Instructions for me
+### Adding ibom
+Generate ibom from KiCAD, change following settings:
+* Directory: root of repo
+* Name format: index
+* Additional pcb data: all
+* Html defaults: dark mode
+* Fields: Datasheet, LCSC/MPN/etc.
+  
+Go to repo in browser, open settings tab, on the left click pages and select the correct branch
