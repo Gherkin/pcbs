@@ -24,3 +24,7 @@ Generate ibom from KiCAD, change following settings:
 * Fields: Datasheet, LCSC/MPN/etc.
   
 Go to repo in browser, open settings tab, on the left click pages and select the correct branch
+
+### Automating the creation of ibom and pdf
+Use https://github.com/Gherkin/kicad-automation/tree/main   
+follow the instructions there
