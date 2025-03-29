@@ -13,3 +13,30 @@
 [submodule "transistor_party"]
 	path = transistor_party
 	url = git@github.com:Gherkin/transistor_party.git
+[submodule "tmc2240-breakout"]
+	path = tmc2240-breakout
+	url = git@github.com:Gherkin/tmc2240-breakout.git
+[submodule "stm32mp2-core"]
+	path = stm32mp2-core
+	url = git@github.com:Gherkin/stm32mp2-core.git
+[submodule "logix-core"]
+	path = logix-core
+	url = git@github.com:Gherkin/logix-core.git
+[submodule "current_shunt_amplifier"]
+	path = current_shunt_amplifier
+	url = git@github.com:Gherkin/current_shunt_amplifier.git
+[submodule "breadboard-byte-leds"]
+	path = breadboard-byte-leds
+	url = git@github.com:Gherkin/breadboard-byte-leds.git
+[submodule "breadboard-byte-buttons"]
+	path = breadboard-byte-buttons
+	url = git@github.com:Gherkin/breadboard-byte-buttons.git
+[submodule "ADAU1787-eval"]
+	path = ADAU1787-eval
+	url = git@github.com:Gherkin/ADAU1787-eval.git
+[submodule "rp2040-core"]
+	path = rp2040-core
+	url = git@github.com:Gherkin/rp2040-core.git
+[submodule "4bit-full-adder"]
+	path = 4bit-full-adder
+	url = git@github.com:Gherkin/4bit-full-adder.git
